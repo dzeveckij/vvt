@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.python-version
+.venv/
+venv/
+env/
+
+# Local configuration and credentials
+.env
+.env.*
+.huggingface/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training outputs and model artifacts
+outputs/
+autobusu-stoteles-lora/
+wandb/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.gguf
+
+# Caches
+.cache/
+cache/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/

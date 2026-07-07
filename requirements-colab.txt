@@ -1,0 +1,15 @@
+sentencepiece
+protobuf
+datasets==4.3.0
+huggingface_hub>=0.34.0
+hf_transfer
+unsloth_zoo
+bitsandbytes
+accelerate
+xformers==0.0.29.post3
+peft
+trl==0.22.2
+triton
+unsloth
+torchao>=0.16.0
+transformers==4.56.2
